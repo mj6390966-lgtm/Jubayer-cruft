@@ -1,0 +1,22 @@
+{
+  "name": "Jubayer Craft",
+  "short_name": "JubayerCraft",
+  "description": "A Minecraft-style 3D block building game by Jubayer.",
+  "start_url": "/Jubayer-cruft/",
+  "display": "fullscreen",
+  "background_color": "#87CEEB",
+  "theme_color": "#4CAF50",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/4CAF50/ffffff?text=JC",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://via.placeholder.com/512x512/4CAF50/ffffff?text=JC",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
